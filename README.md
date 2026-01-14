@@ -18,11 +18,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geuneda&theme=github_dark" width="32.5%" alt="Top Languages by Repo"/>
 </p>
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=geuneda&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ## 💻 Most Used Languages
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geuneda&theme=github_dark" width="48%" alt="Most Commit Language"/>
