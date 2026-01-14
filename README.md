@@ -1,6 +1,6 @@
 # Hi there, I'm JongGeun Lee! 👋
 
-## 📊 GitHub Stats (Private 포함)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/geuneda/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats"/>
