@@ -1,7 +1,10 @@
 # Hi there, I'm JongGeun Lee! 👋
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=geuneda&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+## 🛠️ Tech Stack
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -17,7 +20,7 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geuneda&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=geuneda&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ## 💻 Most Used Languages
